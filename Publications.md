@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /Publication/
+permalink: /Publications/
 author_profile: true
 ---
-##Testing
+## Testing

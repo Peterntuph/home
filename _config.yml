@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Kuan-Hung (Peter) Yeh"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "bio.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an Active Learner, Storyteller and also Dream Chaser."
   location         : "Taipei, Taiwan"
   email            :
@@ -124,7 +124,7 @@ author:
       url: "https://www.facebook.com/peter.ya.180"
     - label: "CV"
       icon: "fab fa-fw fa-id-card"
-      url: "https://github.com/"
+      url: "https://peterntuph.github.io/homepage/CV.pdf"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"

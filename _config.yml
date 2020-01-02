@@ -123,7 +123,7 @@ author:
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/peter.ya.180"
     - label: "CV"
-      icon: "fas fa-file-user"
+      icon: "fas fa-fw fa-id-card"
       url: "https://peterntuph.github.io/homepage/CV.pdf"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"

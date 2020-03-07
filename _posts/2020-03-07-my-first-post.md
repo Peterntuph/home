@@ -31,25 +31,30 @@ The smaller size of the header you want, the fewer numbers of hash marks you pla
 
 For example:
 
-  `#This is header 1`
+  `# This is header 1`
 
-  `##This is header 2`
+  `## This is header 2`
 
-  `###This is header 3`
+  `### This is header 3`
 
-  `####This is header 4`
+  `#### This is header 4`
 
-  `#####This is header 5`
+  `##### This is header 5`
 
-  `######This is header 6`
+  `###### This is header 6`
 
 Result:
 
   # This is header 1
+  
   ## This is header 2
+  
   ### This is header 3
+  
   #### This is header 4
+  
   ##### This is header 5
+  
   ###### This is header 6
 
 ### Links and Images

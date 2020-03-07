@@ -57,11 +57,11 @@ Result:
 
   For example: 
 
-  `[direct to google](www.google.com)`
+  `[Direct to google](www.google.com)`
 
   Result:
 
-  [direct to google](www.google.com)
+  [Direct to google](www.google.com)
   
 * The syntax is nearly the same in  creating images. The difference between links and images is that images are prefaced with an exclamation point ( ! ).
 

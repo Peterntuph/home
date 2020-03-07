@@ -113,5 +113,20 @@ Result:
   2. Banana
   3. Pineapple
 
+* If you need to make a list with more depth, just indent each asterisk with one space.
+
+  For example: 
+
+  `* Tomato`
+  
+    `* Banana`
+  
+      `* Pineapple`
+
+  Result:
+
+  * Tomato
+     * Banana
+        * Pineapple
 
 

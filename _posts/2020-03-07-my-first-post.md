@@ -121,12 +121,14 @@ Result:
   
     `* Banana`
   
-      `* Pineapple`
+     `* Pineapple`
 
   Result:
 
   * Tomato
-     * Banana
-        * Pineapple
+  
+   * Banana
+     
+    * Pineapple
 
 

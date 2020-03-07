@@ -130,16 +130,16 @@ Result:
      * Pineapple
 
 ### CheckBox
-* To create a check box, you need to preface words with (-[] or -[X]).
+* To create a check box, you need to preface words with (- [ ] or - [X]).
 
   For example: 
 
-  `-[x] This is complete item`
+  `- [x] This is complete item`
   
-  `-[] This is incomplete item`
+  `- [ ] This is incomplete item`
 
   Result:
 
-  -[x] This is complete item
+  - [x] This is complete item
   
-  -[] This is incomplete item
+  - [ ] This is incomplete item

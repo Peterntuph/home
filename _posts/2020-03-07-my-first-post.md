@@ -73,7 +73,17 @@ Result:
 
   ![Lebron James](https://s22928.pcdn.co/wp-content/uploads/2020/03/lebron-james-3.jpg)
 
+### Blockquotes
 
+* If you would like to refer the pharse from a celebrity, then Markdown's blockquote syntax will be useful, just preface a line with the "greater than" caret (>).
+
+  For example: 
+
+  `> Genius is one percent inspiration and ninety-nine percent perspiration. ____ Thomas Edison`
+
+  Result:
+
+  > Genius is one percent inspiration and ninety-nine percent perspiration. ____Thomas Edison
 
 
 

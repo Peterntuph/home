@@ -7,8 +7,11 @@ title: "My first post"
 1. To make the pharse _italics_ in Markdown, you need to surround words with an underscore (`_`).
 
 For example: 
-- `_The New England Journal of Medicine_`
-- Result:
-- _The New England Journal of Medicine_
--
+
+`_The New England Journal of Medicine_`
+
+Result:
+
+_The New England Journal of Medicine_
+
 2. To make the pharse **bold** in Markdown, one must surround words with two asterisks(**)

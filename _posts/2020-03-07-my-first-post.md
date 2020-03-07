@@ -31,25 +31,56 @@ The smaller size of the header you want, the fewer numbers of hash marks you pla
 
 For example:
 
-`#This is header 1`
+  `#This is header 1`
 
-`##This is header 2`
+  `##This is header 2`
 
-`###This is header 3`
+  `###This is header 3`
 
-`####This is header 4`
+  `####This is header 4`
 
-`#####This is header 5`
+  `#####This is header 5`
 
-`######This is header 6`
+  `######This is header 6`
 
 Result:
 
-# This is header 1
-## This is header 2
-### This is header 3
-#### This is header 4
-##### This is header 5
-###### This is header 6
+  # This is header 1
+  ## This is header 2
+  ### This is header 3
+  #### This is header 4
+  ##### This is header 5
+  ###### This is header 6
+
+### Links and Images
+* To make links to other web sites on the world wide web, you wrap the link text in brackets ([]), and then you wrap the link in parenthesis (( )).
+
+  For example: 
+
+  `[direct to google](www.google.com)`
+
+  Result:
+
+  [direct to google](www.google.com)
+  
+* The syntax is nearly the same in  creating images. The difference between links and images is that images are prefaced with an exclamation point ( ! ).
+
+  For example: 
+
+  `![Lebron James](https://s22928.pcdn.co/wp-content/uploads/2020/03/lebron-james-3.jpg)`
+
+  Result:
+
+  ![Lebron James](https://s22928.pcdn.co/wp-content/uploads/2020/03/lebron-james-3.jpg)
+
+
+
+
+
+
+
+
+
+
 
 

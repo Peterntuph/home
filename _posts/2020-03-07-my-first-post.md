@@ -45,17 +45,17 @@ For example:
 
 Result:
 
-  # This is header 1
+# This is header 1
   
-  ## This is header 2
+## This is header 2
   
-  ### This is header 3
+### This is header 3
   
-  #### This is header 4
+#### This is header 4
   
-  ##### This is header 5
+##### This is header 5
   
-  ###### This is header 6
+###### This is header 6
 
 ### Links and Images
 * To make links to other web sites on the world wide web, you wrap the link text in brackets ([]), and then you wrap the link in parenthesis (( )).

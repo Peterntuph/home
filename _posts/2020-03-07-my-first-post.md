@@ -15,7 +15,7 @@ title: "My first post"
 
   _The New England Journal of Medicine_
 
-* To make the pharse **bold** in Markdown, + one must surround words with two asterisks(`**`).
+* To make the pharse **bold** in Markdown, one must surround words with two asterisks(`**`).
   
   For example: 
 

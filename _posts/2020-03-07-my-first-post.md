@@ -57,11 +57,11 @@ Result:
 
   For example: 
 
-  `[Direct to google](www.google.com)`
+  `[Markdown 語法說明](http://markdown.tw/ "Title")`
 
   Result:
 
-  [Direct to google](www.google.com)
+  [Markdown 語法說明](http://markdown.tw/ "Title")
   
 * The syntax is nearly the same in  creating images. The difference between links and images is that images are prefaced with an exclamation point ( ! ).
 

@@ -1,10 +1,10 @@
 ---
 layouts: archive
-title: "My first post"
+title: "Basic Technics in Markdown"
 ---
 ## This is my first post. 
 ### I am going to practice and introduce some basic technics in Markdown. So, Let's get start!!
-#### Italics and Bold
+### Italics and Bold
 * To make the pharse _italics_ in Markdown, you need to surround words with an underscore (`_`).
 
   For example: 
@@ -24,3 +24,5 @@ title: "My first post"
   Result:
 
   **The New England Journal of Medicine**
+
+### 

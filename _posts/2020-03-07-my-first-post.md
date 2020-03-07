@@ -129,4 +129,15 @@ Result:
    * Banana  
      * Pineapple
 
+### CheckBox
+* To create a check box, you need to preface words with (-[] or -[X]).
 
+  For example: 
+
+  `-[x] This is complete item`
+  `-[] This is incomplete item`
+
+  Result:
+
+  -[x] This is complete item
+  -[] This is incomplete item

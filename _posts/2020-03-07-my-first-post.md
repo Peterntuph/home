@@ -85,12 +85,33 @@ Result:
 
   > Genius is one percent inspiration and ninety-nine percent perspiration. 
 
+### Listing
 
+* To make an unordered list, preface each item in the list with an asterisk ( * ).
+  
+  For example: 
 
+  `* Boy`
+  `* Girl`
 
+  Result:
 
+  * Boy
+  * Girl
+  
+* To make an unordered list, preface each item in the list with a number ( 1. ).
 
+  For example: 
 
+  `1. Tomato`
+  `2. Banana`
+  `3. Pineapple`
+
+  Result:
+
+  1. Tomato
+  2. Banana
+  3. Pineapple
 
 
 

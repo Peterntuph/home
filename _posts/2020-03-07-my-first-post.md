@@ -79,11 +79,11 @@ Result:
 
   For example: 
 
-  `> Genius is one percent inspiration and ninety-nine percent perspiration. ____ Thomas Edison`
+  `> Genius is one percent inspiration and ninety-nine percent perspiration.` 
 
   Result:
 
-  > Genius is one percent inspiration and ninety-nine percent perspiration. ____Thomas Edison
+  > Genius is one percent inspiration and ninety-nine percent perspiration. 
 
 
 

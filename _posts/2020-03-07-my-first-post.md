@@ -4,7 +4,7 @@ title: "My first post"
 ---
 ## This is my first post. I am going to practice and introduce some basic technics in Markdown. So, Let's get start!!
 ### Italics and Bold
-*To make the pharse _italics_ in Markdown, you need to surround words with an underscore (`_`).
+* To make the pharse _italics_ in Markdown, you need to surround words with an underscore (`_`).
 
   For example: 
 
@@ -14,4 +14,12 @@ title: "My first post"
 
   _The New England Journal of Medicine_
 
-2. To make the pharse **bold** in Markdown, one must surround words with two asterisks(**)
+* To make the pharse **bold** in Markdown, one must surround words with two asterisks(**).
+  
+  For example: 
+
+  `**The New England Journal of Medicine**`
+
+  Result:
+
+  **The New England Journal of Medicine**

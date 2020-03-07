@@ -135,9 +135,11 @@ Result:
   For example: 
 
   `-[x] This is complete item`
+  
   `-[] This is incomplete item`
 
   Result:
 
   -[x] This is complete item
+  
   -[] This is incomplete item

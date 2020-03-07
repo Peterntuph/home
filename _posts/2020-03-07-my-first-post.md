@@ -126,7 +126,7 @@ Result:
   Result:
 
   * Tomato
-   * Banana  
-    * Pineapple
+    * Banana  
+      * Pineapple
 
 

@@ -32,26 +32,32 @@ Today, I will introduce the first two parts, DDL and DML.
 * remark: the syntax and function of SQL need to be all capitals. e.g. SELECT, FROM and DROP.
 * remark2: put the semicolon (`;`) in the end of statement.
 
-1. create a new database
+1. create a new database or table
 > Syntax: CREATE DATABASE database-name <br>
   Example: CREATE DATABASE exerciseDB;
+
+> Syntax: CREATE DATABASE table-name <br>
+  Example: CREATE DATABASE exercise_table;
   
-2. delete a database
+2. delete a database or table
 > Syntax: DROP DATABASE database-name <br>
   Example: DROP DATABASE exerciseDB;
+  
+> Syntax: DROP DATABASE table-name <br>
+  Example: DROP DATABASE exercise_table;
 
 3. alter a database
->> Syntax: ALTER DATABASE database-name <br>
+> Syntax: ALTER DATABASE database-name <br>
            &emsp;&emsp;&emsp;&ensp;MODIFY NAME = new_db; <br>
    Example: ALTER DATABASE exerciseDB  <br>
             &emsp;&emsp;&emsp;&emsp;MODIFY NAME = exerciseDB_new; 
 
->> Syntax: ALTER DATABASE database-name <br>
+> Syntax: ALTER DATABASE database-name <br>
            &emsp;&emsp;&emsp;&ensp;ADD COLUMN col_type; <br>
    Example: ALTER DATABASE exerciseDB  <br>
             &emsp;&emsp;&emsp;&emsp;ADD COLUMN Age;
 
->> Syntax: ALTER DATABASE database-name <br>
+> Syntax: ALTER DATABASE database-name <br>
            &emsp;&emsp;&emsp;&ensp;ADD PRIMARY KEY col_name; <br>
    Example: ALTER DATABASE exerciseDB  <br>
            &emsp;&emsp;&emsp;&emsp;ADD PRIMARY KEY Age;

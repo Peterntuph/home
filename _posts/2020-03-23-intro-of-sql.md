@@ -32,7 +32,7 @@ Today, I will introduce the first part, DDL.
 * remark: the syntax and function of SQL need to be all capitals. e.g. SELECT, FROM and DROP.
 * remark2: put the semicolon (`;`) in the end of statement.
 
-1. Create Statement
+1. Create Statement <br>
   * The create command is used to establish a new database, table, index, or stored procedure.
 
 > Syntax: CREATE DATABASE `database-name` <br>
@@ -41,7 +41,7 @@ Today, I will introduce the first part, DDL.
 > Syntax: CREATE TABLE `table-name` <br>
   Example: CREATE TABLE `exercise_table`;
   
-2. Delete Statement
+2. Delete Statement <br>
   * The DROP statement destroys an existing database, table, index, or view.
 
 > Syntax: DROP DATABASE `database-name` <br>
@@ -50,7 +50,7 @@ Today, I will introduce the first part, DDL.
 > Syntax: DROP TABLE `table-name` <br>
   Example: DROP TABLE `exercise_table`;
 
-3. Alter Statement
+3. Alter Statement <br>
   * The ALTER statement modifies an existing database object.
 
 > Syntax: ALTER DATABASE `database-name` <br>

@@ -96,7 +96,7 @@ Result:
   
   For example: 
 
-  `* Boy`
+  `* Boy` <br>
   `* Girl`
 
   Result:
@@ -124,9 +124,9 @@ Result:
 
   `* Tomato`
   
-    `* Banana`
+  &emsp;&emsp;`* Banana`
   
-     `* Pineapple`
+  &emsp;&emsp;&emsp;&emsp;`* Pineapple`
 
   Result:
 

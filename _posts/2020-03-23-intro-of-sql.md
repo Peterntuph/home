@@ -42,16 +42,16 @@ Today, I will introduce the first two parts, DDL and DML.
 
 3. alter a database
 >> Syntax: ALTER DATABASE database-name <br>
-           MODIFY NAME = new_db; <br>
+           &emsp;&emsp;MODIFY NAME = new_db; <br>
    Example: ALTER DATABASE exerciseDB  <br>
-            MODIFY NAME = exerciseDB_new; 
+            &emsp;&emsp;MODIFY NAME = exerciseDB_new; 
 
 >> Syntax: ALTER DATABASE database-name <br>
-           ADD COLUMN col_type; <br>
+           &emsp;&emsp;ADD COLUMN col_type; <br>
    Example: ALTER DATABASE exerciseDB  <br>
-            ADD COLUMN Age;
+            &emsp;&emsp;ADD COLUMN Age;
 
 >> Syntax: ALTER DATABASE database-name <br>
-           ADD PRIMARY KEY col_name; <br>
+           &emsp;&emsp;ADD PRIMARY KEY col_name; <br>
    Example: ALTER DATABASE exerciseDB  <br>
-           ADD PRIMARY KEY Age;
+           &emsp;&emsp;ADD PRIMARY KEY Age;

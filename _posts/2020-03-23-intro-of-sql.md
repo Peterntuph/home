@@ -34,9 +34,22 @@ Today, I will introduce the first two parts, DDL and DML.
 
 1. create a new database
 > Syntax: CREATE DATABASE database-name <br>
-  Example: CREATE DATABASE exerciseDB
+  Example: CREATE DATABASE exerciseDB;
   
 2. delete a database
 > Syntax: DROP DATABASE database-name <br>
-  Example: DROP DATABASE exerciseDB
-  
+  Example: DROP DATABASE exerciseDB;
+
+3. alter a database
+> >> Syntax: ALTER DATABASE database-name <br>
+             MODIFY NAME = new_db; <br>
+     Example: ALTER DATABASE exerciseDB  <br>
+              MODIFY NAME = exerciseDB_new; 
+  >> Syntax: ALTER DATABASE database-name <br>
+             ADD COLUMN col_type; <br>
+     Example: ALTER DATABASE exerciseDB  <br>
+              ADD COLUMN Age;
+  >> Syntax: ALTER DATABASE database-name <br>
+             ADD PRIMARY KEY col_name; <br>
+     Example: ALTER DATABASE exerciseDB  <br>
+              ADD PRIMARY KEY Age;

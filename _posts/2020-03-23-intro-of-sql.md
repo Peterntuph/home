@@ -15,7 +15,7 @@ SQL are compoesd of three parts
 
 Today, I will introduce the first two parts, DDL and DML.
 
-
+ ---
 
 * About Tables
 

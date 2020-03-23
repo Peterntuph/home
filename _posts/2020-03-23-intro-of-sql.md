@@ -32,32 +32,32 @@ Today, I will introduce the first part, DDL.
 * remark: the syntax and function of SQL need to be all capitals. e.g. SELECT, FROM and DROP.
 * remark2: put the semicolon (`;`) in the end of statement.
 
-1. Create a new database or table
+1. Create Statement
 > Syntax: CREATE DATABASE `database-name` <br>
   Example: CREATE DATABASE `exerciseDB`;
 
-> Syntax: CREATE DATABASE `table-name` <br>
-  Example: CREATE DATABASE `exercise_table`;
+> Syntax: CREATE TABLE `table-name` <br>
+  Example: CREATE TABLE `exercise_table`;
   
-2. Delete a database or table
+2. Delete Statement
 > Syntax: DROP DATABASE `database-name` <br>
   Example: DROP DATABASE `exerciseDB`;
   
-> Syntax: DROP DATABASE `table-name` <br>
-  Example: DROP DATABASE `exercise_table`;
+> Syntax: DROP TABLE `table-name` <br>
+  Example: DROP TABLE `exercise_table`;
 
-3. Alter a database
+3. Alter Statement
 > Syntax: ALTER DATABASE `database-name` <br>
            &emsp;&emsp;&emsp;&ensp;MODIFY NAME = `new_db`; <br>
    Example: ALTER DATABASE `exerciseDB`  <br>
             &emsp;&emsp;&emsp;&emsp;MODIFY NAME = `exerciseDB_new`; 
 
-> Syntax: ALTER DATABASE `database-name` <br>
+> Syntax: ALTER TABLE `table-name` <br>
            &emsp;&emsp;&emsp;&ensp;ADD COLUMN `col_type`; <br>
-   Example: ALTER DATABASE `exerciseDB`  <br>
+   Example: ALTER TABLE `exercise_table`  <br>
             &emsp;&emsp;&emsp;&emsp;ADD COLUMN `Age`;
 
-> Syntax: ALTER DATABASE `database-name` <br>
+> Syntax: ALTER TABLE `table-name` <br>
            &emsp;&emsp;&emsp;&ensp;ADD PRIMARY KEY `col_name`; <br>
-   Example: ALTER DATABASE `exerciseDB`  <br>
+   Example: ALTER TABLE `exercise_table`  <br>
            &emsp;&emsp;&emsp;&emsp;ADD PRIMARY KEY `Age`;

@@ -10,10 +10,8 @@ Nowadays, people who work as data scienctist and analyst, software developer and
 * About SQL
 SQL are compoesd of three parts 
 > Data Definition Language(DDL)
-  
->>  Data Manipulation Language(DML)
-  
->>>  Data Control Language
+  Data Manipulation Language(DML)
+  Data Control Language
 
 Today, I will introduce the first two parts, DDL and DML.
 

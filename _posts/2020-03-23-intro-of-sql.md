@@ -9,7 +9,7 @@ Nowadays, people who work as data scienctist and analyst, software developer and
 
 * About Tables
 
-> Before we go through the Syntax of SQL, we whould have fundemantal understading about the 'Tables'.
+> Before we go through the Syntax of SQL, we whould have fundemantal understading about the Tables.
 
 | Data direction | name | also known as |
 | :------------- | :--- | :------------ |

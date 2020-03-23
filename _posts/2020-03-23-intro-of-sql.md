@@ -12,6 +12,6 @@ Nowadays, people who work as data scienctist and analyst, software developer and
 > Before we go through the Syntax of SQL, we whould have fundemantal understading about the ˋTablesˋ.
 
 | Data direction | name | also known as |
-| -------------- | ---- | ------------- |
+| :------------- | :--- | :------------ |
 | horizontal     | Rows | Observations  |
 | vertical       | Columns | Variables  |

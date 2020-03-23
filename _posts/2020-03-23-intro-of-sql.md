@@ -33,7 +33,6 @@ Today, I will introduce the first part, DDL.
 * remark2: put the semicolon (`;`) in the end of statement.
 
 1. Create Statement 
-2. create stst
   * The create command is used to establish a new database, table, index, or stored procedure.
 
 > Syntax: CREATE DATABASE `database-name` <br>

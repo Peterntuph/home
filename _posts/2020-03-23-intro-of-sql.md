@@ -1,8 +1,8 @@
 ---
 layouts: archive
-title: "Introduction to SQL"
+title: "Introduction to SQL I"
 ---
-## Introduction to SQL
+## Introduction to SQL I
 > SQL is a  domain-specific programming language designed for managing data in a relational database management system(RDBMS), and is used by a huge number of apps and organizations. For more information, please click the following link: [SQL_wiki](https://en.wikipedia.org/wiki/SQL "Title")
 
 Nowadays, people who work as data scienctist and analyst, software developer and even web designer require to use SQL as a tool for sharing and managing data in RDBMS. This post aims to record my self-learning experience and share with people who would like to learnig some basic technics in SQL. So, Let's get started.
@@ -13,7 +13,7 @@ SQL are compoesd of three parts
   Data Manipulation Language(DML) <br>
   Data Control Language
 
-Today, I will introduce the first two parts, DDL and DML.
+Today, I will introduce the first part, DDL.
 
  ---
 

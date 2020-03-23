@@ -33,7 +33,6 @@ Today, I will introduce the first part, DDL.
 * remark2: put the semicolon (`;`) in the end of statement.
 
 1. Create Statement
-
   * The create command is used to establish a new database, table, index, or stored procedure.
 > Syntax: CREATE DATABASE `database-name` <br>
   Example: CREATE DATABASE `exerciseDB`;
@@ -42,7 +41,6 @@ Today, I will introduce the first part, DDL.
   Example: CREATE TABLE `exercise_table`;
   
 2. Delete Statement
-
   * The DROP statement destroys an existing database, table, index, or view.
 > Syntax: DROP DATABASE `database-name` <br>
   Example: DROP DATABASE `exerciseDB`;
@@ -51,7 +49,6 @@ Today, I will introduce the first part, DDL.
   Example: DROP TABLE `exercise_table`;
 
 3. Alter Statement
-
   * The ALTER statement modifies an existing database object.
 > Syntax: ALTER DATABASE `database-name` <br>
            &emsp;&emsp;&emsp;&ensp;MODIFY NAME = `new_db`; <br>

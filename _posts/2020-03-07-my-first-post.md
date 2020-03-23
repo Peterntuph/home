@@ -108,9 +108,9 @@ Result:
 
   For example: 
 
-  `1. Tomato`
-  `2. Banana`
-  `3. Pineapple`
+  `1. Tomato` <br>
+  `2. Banana` <br>
+  `3. Pineapple` <br>
 
   Result:
 

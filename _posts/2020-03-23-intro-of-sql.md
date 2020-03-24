@@ -8,10 +8,11 @@ title: "Introduction to SQL I"
 Nowadays, people who work as data scienctist and analyst, software developer and even web designer require to use SQL as a tool for sharing and managing data in RDBMS. This post aims to record my self-learning experience and share with people who would like to learnig some basic technics in SQL. So, Let's get started.
 
 * About SQL <br>
-SQL are compoesd of three parts 
+
+&emsp;&emsp;SQL are compoesd of three parts 
 > Data Definition Language(DDL) <br>
   Data Manipulation Language(DML) <br>
-  Data Control Language
+  Data Control Language (DCL)
 
 Today, I will introduce the first part, DDL.
 
@@ -28,7 +29,7 @@ Today, I will introduce the first part, DDL.
 
  ---
 
-### Important Sntax in DDL
+### Important Syntax in DDL
 * remark: the syntax and function of SQL need to be all capitals. e.g. SELECT, FROM and DROP.
 * remark2: put the semicolon (`;`) in the end of statement.
 

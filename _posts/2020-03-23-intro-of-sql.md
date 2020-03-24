@@ -10,8 +10,8 @@ Nowadays, people who work as data scienctist and analyst, software developer and
 * About SQL <br>
 
 &emsp;&emsp;SQL are compoesd of three parts 
-> Data Definition Language(DDL) <br>
-  Data Manipulation Language(DML) <br>
+> Data Definition Language (DDL) <br>
+  Data Manipulation Language (DML) <br>
   Data Control Language (DCL)
 
 Today, I will introduce the first part, DDL.
@@ -34,7 +34,7 @@ Today, I will introduce the first part, DDL.
 * remark2: put the semicolon (`;`) in the end of statement.
 
 1. Create Statement 
-  * The create command is used to establish a new database, table, index, or stored procedure.
+* The create command is used to establish a new database, table, index, or stored procedure.
 
 > Syntax: CREATE DATABASE `database-name` <br>
   Example: CREATE DATABASE `exerciseDB`;
@@ -43,7 +43,7 @@ Today, I will introduce the first part, DDL.
   Example: CREATE TABLE `exercise_table`;
   
 2. Delete Statement <br>
-  * The DROP statement destroys an existing database, table, index, or view.
+* The DROP statement destroys an existing database, table, index, or view.
 
 > Syntax: DROP DATABASE `database-name` <br>
   Example: DROP DATABASE `exerciseDB`;
@@ -52,7 +52,7 @@ Today, I will introduce the first part, DDL.
   Example: DROP TABLE `exercise_table`;
 
 3. Alter Statement 
-  * The ALTER statement modifies an existing database object.
+* The ALTER statement modifies an existing database object.
 
 > Syntax: ALTER DATABASE `database-name` <br>
            &emsp;&emsp;&emsp;&ensp;MODIFY NAME = `new_db`; <br>

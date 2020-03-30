@@ -7,7 +7,7 @@ author_profile: true
 ## Publications
 
 #### Conference
-> 2019 Public Health Joint Annual Conference <br>
+* 2019 Public Health Joint Annual Conference <br>
 
 *Using National Cancer Registry Data to Develop Prediction Model for Colon Cancer in Taiwan.* <br>
   

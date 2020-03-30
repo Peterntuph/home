@@ -1,6 +1,7 @@
 ---
 layout: archive
 permalink: /Publications/
+title: 'Publications'
 author_profile: true
 ---
 ## Conference

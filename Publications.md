@@ -4,9 +4,11 @@ permalink: /Publications/
 title: 'Publications'
 author_profile: true
 ---
-## Conference
+## Publications
+
+#### Conference
 > 2019 Public Health Joint Annual Conference <br>
 
 *Using National Cancer Registry Data to Develop Prediction Model for Colon Cancer in Taiwan.* <br>
   
-  **Kuan-Hung Yeh**Tzu-Pin Lu
+  **Kuan-Hung Yeh**, Tzu-Pin Lu

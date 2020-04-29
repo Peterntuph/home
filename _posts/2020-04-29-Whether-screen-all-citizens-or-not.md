@@ -47,10 +47,10 @@ Relationship between disease prevalence and predictive value in a test with 95% 
 Thus, imagining that we have a strong testing tool with 95% Sensitivity and 95% Specificity, the prevalence rate of COVID-19 is still less than 3% in Taiwan which makes the PPV of Taiwan equals to 37%. 37% of PPV is definitely not a good index for diagnose the hidden carriers but only increase the anxiety of the general public. However, if we select risk population by using disease reporting system. The target audience will be narrow down and the prevalence rate may rise to around 30% and therefore the PPV will also rise to 90% which is a nearly perfect index we can believe in.
 
 ### Reference
-1. ![Taiwan's battle against coronavirus began in late 2019](https://asia.nikkei.com/Spotlight/Coronavirus/Taiwan-s-battle-against-coronavirus-began-in-late-2019)
-2. ![Taiwan's coronavirus response is among the best globally](https://edition.cnn.com/2020/04/04/asia/taiwan-coronavirus-response-who-intl-hnk/index.html)
-3. ![Sensitivity and Specificity](https://en.wikipedia.org/wiki/Sensitivity_and_specificity)
-4. ![Prevalence](https://en.wikipedia.org/wiki/Prevalence)
-5. ![武漢肺炎》阿中開課了！](https://newtalk.tw/news/view/2020-04-28/398467) 
-6. ![Taiwan Public Television Service ](https://giphy.com/pts_youthnews)
-7. ![PennState University Epidemiological Research Methods](https://online.stat.psu.edu/stat507/node/71/)
+1. [Taiwan's battle against coronavirus began in late 2019](https://asia.nikkei.com/Spotlight/Coronavirus/Taiwan-s-battle-against-coronavirus-began-in-late-2019)
+2. [Taiwan's coronavirus response is among the best globally](https://edition.cnn.com/2020/04/04/asia/taiwan-coronavirus-response-who-intl-hnk/index.html)
+3. [Sensitivity and Specificity](https://en.wikipedia.org/wiki/Sensitivity_and_specificity)
+4. [Prevalence](https://en.wikipedia.org/wiki/Prevalence)
+5. [武漢肺炎》阿中開課了！](https://newtalk.tw/news/view/2020-04-28/398467) 
+6. [Taiwan Public Television Service ](https://giphy.com/pts_youthnews)
+7. [PennState University Epidemiological Research Methods](https://online.stat.psu.edu/stat507/node/71/)

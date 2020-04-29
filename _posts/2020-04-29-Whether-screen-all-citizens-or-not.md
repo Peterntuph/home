@@ -23,10 +23,10 @@ Before we decide whether take this measure or not, we have to know what testing 
 | Fast screening (Antigens) | 15 mins | Early onset | 70 % | > 95 % |
 | Fast screening (Antibody)| 15 mins | 7 days after onset| 75 % | > 95 % |
 
-#### Time & Money
+### Time & Money
 Based on the data from the National Health Command Center (NHCC), RT-PCR is approximately 100 U.S. dollars per person. Imagine if we screen 24 million people case by case by using RT-PCR, it totally costs around 2.3 billion U.S. dollars. That is definitely not a small amount of money and the huge numbers of specimens will be a heavy burden to Medical Laboratory Technician. Moreover, if we use fast screening rather than RT-PCR, we may save a lot of money to 4600 million U.S. dollars. However, the test results will be inaccurate because lower sensitivity would increase the numbers of false negative and false positive.
 
-#### Inaccurate Results
+### Inaccurate Results
 In medical testing, and more generally in binary classification, a false positive and false negative are errors commonly in data reporting in which a test result improperly indicates the presence of a condition. Furthermore, the numbers of those errors will affect by the **sensitivity and specificity** of the testing tool and the **prevalence** rate of the illness.
 
 * Sensitivity (also called true positive rate): measures the proportion of **actual positives** that are correctly identified as such.
@@ -37,11 +37,7 @@ In medical testing, and more generally in binary classification, a false positiv
 
 If we would like to believe the positive testing result actually means the patient was infected, we may need to understand the **Positive Predictive Value** (PPV). If Positive Predictive Value is 50%, it means that when we see two positive testing result, one person must be misdiagnosed. The formula of positive predictive value is below.
 
-![formula_1](https://github.com/Peterntuph/peterntuph.github.io/blob/master/_pics/CodeCogsEqn.png)
-
-**OR**
-
-![formula_2](https://github.com/Peterntuph/peterntuph.github.io/blob/master/_pics/CodeCogsEqn%20(1).png)
+![formula_1](http://journal.ahima.org/wp-content/uploads/2015/08/Side-bar_PPV-Formula-Unpacked.png)
 
 Thus, imagining that we have a strong testing tool with 95% Sensitivity and 95% Specificity, the prevalence rate of COVID-19 is still less than 3% in Taiwan which makes the PPV of Taiwan equals to 37%. 37% of PPV is definitely not a good index for diagnose the hidden carriers but only increase the anxiety of the general public. However, if we select risk population by using disease reporting system. The target audience will be narrow down and the prevalence rate may rise to around 30% and therefore the PPV will also rise to 90% which is a nearly perfect index we can believe in.
 
@@ -59,3 +55,4 @@ Relationship between disease prevalence and predictive value in a test with 95% 
 5. [武漢肺炎》阿中開課了！](https://newtalk.tw/news/view/2020-04-28/398467) 
 6. [Taiwan Public Television Service ](https://giphy.com/pts_youthnews)
 7. [PennState University Epidemiological Research Methods](https://online.stat.psu.edu/stat507/node/71/)
+8. [Measurement Brings Meaning to Population Health(AHIMA)](https://bok.ahima.org/doc?oid=301488#.Xqk4rSkzbX5)

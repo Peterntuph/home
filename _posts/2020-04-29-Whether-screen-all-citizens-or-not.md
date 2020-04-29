@@ -40,6 +40,7 @@ OR
 $$ \frac{$Sensitivity$ \times $Prevalence$}{$Sensitivity$ \times $Prevalence$ + (1 - $Specificity$) \times (1 - $Prevalence$)}
 
 ![example](https://online.stat.psu.edu/stat507/sites/onlinecourses.science.psu.edu.stat507/files/lesson10/prevalence_graph/index.gif)
+
 Relationship between disease prevalence and predictive value in a test with 95% sensitivity and 85% specificity. 
 (From Mausner JS, Kramer S: Mausner and Bahn Epidemiology: An Introductory Text. Philadelphia, WB Saunders, 1985, p. 221.)
 

@@ -37,7 +37,7 @@ In medical testing, and more generally in binary classification, a false positiv
 
 If we would like to believe the positive testing result actually means the patient was infected, we may need to understand the **Positive Predictive Value** (PPV). If Positive Predictive Value is 50%, it means that when we see two positive testing result, one person must be misdiagnosed. The formula of positive predictive value is below.
 
-
+![formula](https://render.githubusercontent.com/render/math?math=\frac{True Positive Cases}{True Positive Cases + False Positive Cases})
 <img src="http://chart.googleapis.com/chart?cht=tx&chl=\frac{True Positive Cases}{True Positive Cases + False Positive Cases}" style="border:none;">
 
 $$\frac{True Positive Cases}{True Positive Cases + False Positive Cases}$$

@@ -27,7 +27,7 @@ Before we decide whether take this measure or not, we have to know what testing 
 Based on the data from the National Health Command Center (NHCC), RT-PCR is approximately 100 U.S. dollars per person. Imagine if we screen 24 million people case by case by using RT-PCR, it totally costs around 2.3 billion U.S. dollars. That is definitely not a small amount of money and the huge numbers of specimens will be a heavy burden to Medical Laboratory Technician. Moreover, if we use fast screening rather than RT-PCR, we may save a lot of money to 4600 million U.S. dollars. However, the test results will be inaccurate because lower sensitivity would increase the numbers of false negative and false positive.
 
 #### Inaccurate Results
-In medical testing, and more generally in binary classification, a false positive and false negative are errors commonly in data reporting in which a test result improperly indicates the presence of a condition. Furthermore, the numbers of those errors will affect by the **sensitivity and specificity ** of the testing tool and the **prevalence** rate of the illness.
+In medical testing, and more generally in binary classification, a false positive and false negative are errors commonly in data reporting in which a test result improperly indicates the presence of a condition. Furthermore, the numbers of those errors will affect by the **sensitivity and specificity** of the testing tool and the **prevalence** rate of the illness.
 
 * Sensitivity (also called true positive rate): measures the proportion of **actual positives** that are correctly identified as such.
 

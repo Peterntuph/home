@@ -33,11 +33,11 @@ In medical testing, and more generally in binary classification, a false positiv
 *Prevalence: the number of disease cases present in a particular population at a given time.
 If we would like to believe the positive testing result actually means the patient was infected, we may need to understand the **Positive Predictive Value** (PPV). If Positive Predictive Value is 50%, it means that when we see two positive testing result, one person must be misdiagnosed. The formula of positive predictive value is below.
 
-$$ \frac{$True Positive Cases$}{$True Positive Cases$ + $False Positive Cases$}$$
+$$\frac{True Positive Cases}{True Positive Cases + False Positive Cases}$$
 
 OR
 
-$$ \frac{$Sensitivity$ \times $Prevalence$}{$Sensitivity$ \times $Prevalence$ + (1 - $Specificity$) \times (1 - $Prevalence$)}
+$$\frac{Sensitivity \times Prevalence}{Sensitivity \times Prevalence + (1 - Specificity) \times (1 - Prevalence)}$$
 
 ![example](https://online.stat.psu.edu/stat507/sites/onlinecourses.science.psu.edu.stat507/files/lesson10/prevalence_graph/index.gif)
 

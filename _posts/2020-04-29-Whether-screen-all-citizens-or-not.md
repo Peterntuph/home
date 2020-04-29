@@ -28,9 +28,13 @@ Based on the data from the National Health Command Center (NHCC), RT-PCR is appr
 
 #### Inaccurate Results
 In medical testing, and more generally in binary classification, a false positive and false negative are errors commonly in data reporting in which a test result improperly indicates the presence of a condition. Furthermore, the numbers of those errors will affect by the **sensitivity and specificity ** of the testing tool and the **prevalence** rate of the illness.
-*Sensitivity (also called true positive rate): measures the proportion of **actual positives** that are correctly identified as such.
-*Specificity (also called true negative rate): measures the proportion of **actual negatives** that are correctly identified as such.
-*Prevalence: the number of disease cases present in a particular population at a given time.
+
+* Sensitivity (also called true positive rate): measures the proportion of **actual positives** that are correctly identified as such.
+
+* Specificity (also called true negative rate): measures the proportion of **actual negatives** that are correctly identified as such.
+
+* Prevalence: the number of disease cases present in a particular population at a given time.
+
 If we would like to believe the positive testing result actually means the patient was infected, we may need to understand the **Positive Predictive Value** (PPV). If Positive Predictive Value is 50%, it means that when we see two positive testing result, one person must be misdiagnosed. The formula of positive predictive value is below.
 
 $$\frac{True Positive Cases}{True Positive Cases + False Positive Cases}$$

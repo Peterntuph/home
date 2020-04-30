@@ -56,3 +56,5 @@ Relationship between disease prevalence and predictive value in a test with 95% 
 6. [Taiwan Public Television Service ](https://giphy.com/pts_youthnews)
 7. [PennState University Epidemiological Research Methods](https://online.stat.psu.edu/stat507/node/71/)
 8. [Measurement Brings Meaning to Population Health(AHIMA)](https://bok.ahima.org/doc?oid=301488#.Xqk4rSkzbX5)
+
+#### Written in April 29th, 2020

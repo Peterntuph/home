@@ -42,7 +42,7 @@ If we would like to believe the positive testing result actually means the patie
 Thus, imagining that we have a strong testing tool with 95% Sensitivity and 95% Specificity, the prevalence rate of COVID-19 is still less than 3% in Taiwan which makes the PPV of Taiwan equals to 37%. 37% of PPV is definitely not a good index for diagnose the hidden carriers but only increase the anxiety of the general public. However, if we select risk population by using disease reporting system. The target audience will be narrow down and the prevalence rate may rise to around 30% and therefore the PPV will also rise to 90% which is a nearly perfect index we can believe in.
 
 
-![example](https://github.com/Peterntuph/peterntuph.github.io/edit/master/_pics/Relationship between disease prevalence and predictive value.png)
+![example](https://github.com/Peterntuph/peterntuph.github.io/edit/master/_pics/Relationship.png)
 
 Relationship between disease prevalence and predictive value in a test with 95% sensitivity and 85% specificity. 
 (From Mausner JS, Kramer S: Mausner and Bahn Epidemiology: An Introductory Text. Philadelphia, WB Saunders, 1985, p. 221.)

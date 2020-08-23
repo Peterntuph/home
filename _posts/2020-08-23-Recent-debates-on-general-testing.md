@@ -3,6 +3,7 @@ layouts: archive
 permaink:/Recent_debates_on_general_testing/
 title: "Recent debates on general testing"
 ---
+## Recent debates on general testing
 There was a fierce debate **“again”** in Taiwan recently on general testing for coronavirus. However, this time the problem is not about screening all citizens but all arrivals at borders, worrying about the risk of asymptomatic carriers.
 
 ### Changhua County Public Health Bureau’s undisclosed testing

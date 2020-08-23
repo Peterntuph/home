@@ -9,8 +9,12 @@ These series of debates began with an asymptotic teenager tested positive while
 isolating at home on Aug, 17. This uncovered that Changhua County Public Health Bureau has conducted undisclosed COVID-19 screenings of asymptomatic individuals for at least six months. Without notifying Taiwan's Central Epidemic Command Center (CECC) in advance, the Health Minister and CECC head Chen Shih-Chung have asked the ethics department to investigate this hidden testing. Chen also mentioned that the purpose is not to punish Changhua officials but to find out if their actions are following a standard operating procedure (SOP). Meanwhile, a person who took the undisclosed testing revealed that he went to the hospital by himself while he was quarantined. People concern that Changhua will become a weak point in Taiwan's coronavirus prevention efforts. 
 But, some people still think that discovering this confirmed case may probably reduce the possibility of cross-infection in communities, it does more good than harm.
 
-###KMT’s testing plan to the 14 cities
+![Quarantine](https://media.giphy.com/media/kFCkuZ1KGVb7Qz2g53/giphy.gif)
+
+### KMT’s testing plan to the 14 cities
 Haven't waited until the controversy of the Changhua County Public Health Bureau's undiscovered screening ended, KMT, the second-largest party in Taiwan, decided to introduce the general testing plan to the 14 cities and counties it controls. KMT Deputy Secretary-General Lee Yen-Hsiu pointed out that the majority of Taiwanese support the plan for general testing. However, the health experts were divided into two sides of opinion, some have supported general screening for all arrivals at borders and praised the actions taken by Changhua official, while others criticized the Changhua official’s carelessness for allowing quarantined people leave their house for testing on his or her own. Thus, Cabinet Spokesperson Ting I-ming commented that if KMT conducts its plan without consulting the CECC, it would create panic and undermine the government's pandemic prevention measures. Moreover, the public would be lost and confused without a unified statement to the pandemics.
+
+![love](https://media.giphy.com/media/Jq1fwhOmGTbTz5wrFQ/giphy.gif)
 
 ### Disagreement from CECC
 In response to doing the general testing or not, the Health and Welfare Minister Chen Shih-Chung respond to Changhua Public Health Bureau's undisclosed virus testing that triggered off the debate on the issue of general testing on Aug, 22. The Changhua’s officials had halted its screening program since they received the notice from the central government. Furthermore, Chen gave an explanation to state why the CECC denied carrying out the general testing at borders.

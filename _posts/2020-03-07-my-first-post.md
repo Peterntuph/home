@@ -1,9 +1,9 @@
 ---
 layouts: archive
-title: "Basic Technics in Markdown"
+title: "Basic Techniques  in Markdown"
 ---
 ## This is my first post. 
-### I am going to practice and introduce some basic technics in Markdown. So, Let's get started!!
+### I am going to practice and introduce some basic techniques in Markdown. So, Let's get started!!
 ### Italics and Bold
 * To make the pharse _italics_ in Markdown, you need to surround words with an underscore (`_`).
 

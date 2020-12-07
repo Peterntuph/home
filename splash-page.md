@@ -3,7 +3,6 @@ title: "Splash Page"
 layout: splash
 permalink: /splash-page/
 hidden: true
-author_profile: true
 date: 2020-12-07
 header:
   overlay_color: "#000"

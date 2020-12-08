@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "zh-TW"
+locale                   : "en-US"
 title                    : "Kuan-Hung Yeh's Website"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead

@@ -2,7 +2,6 @@
 title: "Splash Page"
 layout: splash
 permalink: /splash-page/
-date: 2020-12-07
 header:
   image: https://raw.githubusercontent.com/Peterntuph/peterntuph.github.io/master/_pics/sky.png
 excerpt: "This is Kuan-Hung Yeh's Personal Website"

@@ -1,6 +1,7 @@
 ---
 title: "Splash Page"
 layout: splash
+author_profile: true
 permalink: /splash-page/
 header:
   image: https://raw.githubusercontent.com/Peterntuph/peterntuph.github.io/master/_pics/sky2.png

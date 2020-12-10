@@ -1,5 +1,6 @@
 ---
 layouts: archive
+class: wide
 permalink: /my-first-post
 title: "Basic Techniques  in Markdown"
 ---

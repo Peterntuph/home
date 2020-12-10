@@ -10,6 +10,7 @@ feature_row:
     url: "https://peterntuph.github.io/Recent-debates-on-general-testing/"
     btn_label: "Read More"
     btn_class: "btn--primary"
+feature_row2:  
   - image_path: https://image.taiwantoday.tw/images/content/img20200618144920331.jpg
     image_caption: "Photo credit: **Taiwan Today**"
     alt: "placeholder image 2"
@@ -18,6 +19,7 @@ feature_row:
     url: "https://peterntuph.github.io/Whether-screen-all-citizens-or-not/"
     btn_label: "Read More"
     btn_class: "btn--primary"
+feature_row3:
   - image_path: https://raw.githubusercontent.com/Peterntuph/peterntuph.github.io/master/_pics/sunset.png
     title: "Basic Techniques in Markdown"
     excerpt: "This is my first post that shows some basic techniques in Markdown"
@@ -26,4 +28,8 @@ feature_row:
     btn_class: "btn--primary"    
 ---
 
-{% include feature_row %}
+{% include feature_row id="feature_row" type="right" %}
+
+{% include feature_row id="feature_row2" type="right" %}
+
+{% include feature_row id="feature_row3" type="right" %}

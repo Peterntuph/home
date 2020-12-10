@@ -2,9 +2,6 @@
 title: "Splash Page"
 layout: splash
 permalink: /splash-page/
-header:
-  image: https://raw.githubusercontent.com/Peterntuph/peterntuph.github.io/master/_pics/sky2.png
-excerpt: "This is Kuan-Hung Yeh's Personal Website"
 feature_row:
   - image_path: https://imgcdn.cna.com.tw/Eng/WebEngPhotos/1024/2020/20200923/3879x2182_083163292936.jpg
     image_caption: "Photo credit: **Central News Agency**"

@@ -20,7 +20,8 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: https://raw.githubusercontent.com/Peterntuph/peterntuph.github.io/master/_pics/sunset.png
+  - image_path: https://miro.medium.com/max/788/0*lzRmzAy5OICef7rK.png
+    image_caption: "Photo credit: [Taylorh Xu](https://medium.com/@taylorhxu/markdown-for-dummies-a24e982b8e85)"
     title: "Basic Techniques in Markdown"
     excerpt: "This is my first post that shows some basic techniques in Markdown"
     url: "https://peterntuph.github.io/my-first-post/"

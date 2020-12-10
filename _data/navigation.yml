@@ -3,11 +3,11 @@ main:
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
-    url: /home/about/
+    url: /about/
   #- title: "Publications"
     #url: /Publications/
   - title: "Splash Page"
-    url: /home/splash-page/
+    url: /splash-page/
     
   # - title: "Sample Collections"
   #   url: /collection-archive/

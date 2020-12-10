@@ -1,5 +1,6 @@
 ---
 layouts: archive
+permalink: /my-first-post
 title: "Basic Techniques  in Markdown"
 ---
 ## This is my first post. 

@@ -1,5 +1,6 @@
 ---
 layouts: archive
+class: wide
 title: "Whether screen general public or not"
 ---
 ### Introduction of Taiwan’s precautionary measures

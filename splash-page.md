@@ -7,7 +7,7 @@ feature_row:
     image_caption: "Photo credit: **Central News Agency**"
     title: "Recent debates on general testing"
     excerpt: "There was a fierce debate “again” in Taiwan recently on general testing for coronavirus. However, this time the problem is not about screening all citizens but all arrivals at borders, worrying about the risk of asymptomatic carriers."
-    url: "https://peterntuph.github.io/Recent-debates-on-general-testing/"
+    url: "https://peterntuph.github.io/home/Recent-debates-on-general-testing/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:  
@@ -16,7 +16,7 @@ feature_row2:
     alt: "placeholder image 2"
     title: "Whether screen general public or not"
     excerpt: "Due to the outbreak of COVID-19, millions of people have lived in fear of being infected by this contagious and fatal virus."
-    url: "https://peterntuph.github.io/Whether-screen-all-citizens-or-not/"
+    url: "https://peterntuph.github.io/home/Whether-screen-all-citizens-or-not/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
@@ -24,7 +24,7 @@ feature_row3:
     image_caption: "Photo credit: [Taylorh Xu](https://medium.com/@taylorhxu/markdown-for-dummies-a24e982b8e85)"
     title: "Basic Techniques in Markdown"
     excerpt: "This is my first post that shows some basic techniques in Markdown"
-    url: "https://peterntuph.github.io/my-first-post/"
+    url: "https://peterntuph.github.io/home/my-first-post/"
     btn_label: "Read More"
     btn_class: "btn--primary"    
 ---

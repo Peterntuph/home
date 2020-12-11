@@ -1,6 +1,6 @@
 ---
 layouts: archive
-class: wide
+classes: wide
 title: "Introduction to SQL I"
 ---
 ## Introduction to SQL I

@@ -1,6 +1,6 @@
 ---
 layouts: archive
-class: wide
+classes: wide
 title: "Recent debates on general testing"
 ---
 There was a fierce debate **“again”** in Taiwan recently on general testing for coronavirus. However, this time the problem is not about screening all citizens but all arrivals at borders, worrying about the risk of asymptomatic carriers.

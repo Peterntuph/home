@@ -8,7 +8,7 @@ feature_row:
     alt: "placeholder image 2"
     title: "R Markdown Quick Tutorial (Part I)"
     excerpt: "As a statistician or so-called data scientist, it is not only important to master the methods of data analysis, but also know how to pass the analysis results clearly to others and ensure our research reproducibility. Therefore, you might choose to create an **R Markdown** document to help you present your code alongside its output (graphs, tables, etc.) with conventional text. Here I am going to provide a quick tour of R Markdown and construct your own R markdown file within 10 minutes."
-    url: "https://peterntuph.github.io/home/Rmarkdown-partI/"
+    url: "https://peterntuph.github.io/home/Rmarkdown-partI"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:

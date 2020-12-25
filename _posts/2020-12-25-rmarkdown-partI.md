@@ -12,9 +12,9 @@ As a statistician or so-called data scientist, it is not only important to maste
 
 First, to get R Markdown working in R Studio, you need to download rmarkdown and knitr package, which you can get from CRAN by running the following commands in R or R Studio:
 
-> install.packages("rmarkdown")
-> install.packages("knitr")
-> library(rmarkdown)
+> install.packages("rmarkdown") <br>
+> install.packages("knitr") <br>
+> library(rmarkdown) <br>
 > library(knitr)
 
 ## 2. Open an R Markdown File
@@ -26,11 +26,11 @@ To create a new R Markdown file (`.Rmd`), select `File` -> `New File` -> `R Mark
 ## 3. The YAML Header Format
 
 After we created `.Rmd` file, the `YAML` header section enclosed by `---` will appear at the top of script. It includes a title, author, date and the file type that you previous select.
-> ---
-> title: "R Markdown Tutorial"
-> author: "Kuan-Hung Peter Yeh"
-> date: " 25/Dec/2020 "
-> output: html_document
+> --- <br>
+> title: "R Markdown Tutorial" <br>
+> author: "Kuan-Hung Peter Yeh" <br>
+> date: " 25/Dec/2020 " <br>
+> output: html_document <br>
 > ---
 
 By default, those content will output by compiling it to `.html` if you press the `Knit` button in the taskbar. Moreover, newly created `.Rmd` file accompanies with basic instructions, if you would like to create your own script, just delete text below the `YAML` header section in the example file.
@@ -42,8 +42,8 @@ By default, those content will output by compiling it to `.html` if you press th
 Below the `YAML` header is the place where you will write your code with explanation and any outputs (graphs, tables, etc.). Before you write down your code, make sure that your code place in a `Code Chunk`. Therefore, you need to insert `Code Chunk` first, click `Insert` -> `R` in the taskbar or ** keyboard shortcut (Ctrl + Alt + I) **.
 
 For example:
-> ```{r}
-> seq(10)
+> ```{r} <br>
+> seq(10) <br>
 > ```
 
 Next, you can run an individual chunk of code at any time by placing your cursor inside the code chunk and selecting `Run -> Run Current Chunk` or ** keyboard shortcut (Ctrl + Shift + Enter) **

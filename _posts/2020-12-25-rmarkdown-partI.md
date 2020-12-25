@@ -44,7 +44,7 @@ Below the `YAML` header is the place where you will write your code with explana
 For example:
 > ```{r} <br>
 > seq(10) <br>
-> ```
+> ``` <br>
 
 Next, you can run an individual chunk of code at any time by placing your cursor inside the code chunk and selecting `Run -> Run Current Chunk` or ** keyboard shortcut (Ctrl + Shift + Enter) **
 

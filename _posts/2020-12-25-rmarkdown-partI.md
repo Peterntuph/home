@@ -42,9 +42,9 @@ By default, those content will output by compiling it to `.html` if you press th
 Below the `YAML` header is the place where you will write your code with explanation and any outputs (graphs, tables, etc.). Before you write down your code, make sure that your code place in a `Code Chunk`. Therefore, you need to insert `Code Chunk` first, click `Insert` -> `R` in the taskbar or ** keyboard shortcut (Ctrl + Alt + I) **.
 
 For example:
-> ```{r} <br>
-> seq(10) <br>
-> ``` <br>
+> ```{r} 
+> seq(10) 
+> ``` 
 
 Next, you can run an individual chunk of code at any time by placing your cursor inside the code chunk and selecting `Run -> Run Current Chunk` or ** keyboard shortcut (Ctrl + Shift + Enter) **
 

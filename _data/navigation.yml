@@ -4,10 +4,10 @@ main:
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: /about/
-  #- title: "Publications"
-    #url: /Publications/
   - title: "Splash Page"
-    url: /splash-page/
+    url: /splash-page/ 
+ - title: "Website"
+    url: http://peterntuph.github.io
     
   # - title: "Sample Collections"
   #   url: /collection-archive/

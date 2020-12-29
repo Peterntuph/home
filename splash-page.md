@@ -4,10 +4,10 @@ layout: splash
 permalink: /splash-page/
 feature_row:  
   - image_path: https://d33wubrfki0l68.cloudfront.net/87603549ad0d95b0071da0f9270b2f89ead3b39b/48700/lesson-images/websites-1-render.png
-    image_caption: "Photo credit: **R Markdown**"
+    image_caption: "Photo credit: [R Markdown](https://rmarkdown.rstudio.com/)"
     alt: "placeholder image 2"
     title: "R Markdown Quick Tutorial (Part I)"
-    excerpt: "As a statistician or so-called data scientist, it is not only important to master the methods of data analysis, but also know how to pass the analysis results clearly to others and ensure our research reproducibility. Therefore, you might choose to create an **R Markdown** document to help you present your code alongside its output (graphs, tables, etc.) with conventional text. Here I am going to provide a quick tour of R Markdown and construct your own R markdown file within 10 minutes."
+    excerpt: "As a statistician or so-called data scientist, it is not only important to master the methods of data analysis, but also know how to pass the analysis results clearly to others and ensure our research reproducibility. .... "
     url: "https://peterntuph.github.io/home/Rmarkdown-partI"
     btn_label: "Read More"
     btn_class: "btn--primary"

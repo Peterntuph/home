@@ -55,7 +55,7 @@ For example:
 > `![ Pythagora’s theorem]( https://cdn.zmescience.com/wp-content/uploads/2017/05/Pythagorean-Theorem.jpeg)`
 
 Result:
-![ Pythagora’s theorem]( https://cdn.zmescience.com/wp-content/uploads/2017/05/Pythagorean-Theorem.jpeg =250x)
+![ Pythagora’s theorem]( https://cdn.zmescience.com/wp-content/uploads/2017/05/Pythagorean-Theorem.jpeg)
 
 ## 4. Table
 

@@ -6,12 +6,21 @@ feature_row:
   - image_path: https://d33wubrfki0l68.cloudfront.net/87603549ad0d95b0071da0f9270b2f89ead3b39b/48700/lesson-images/websites-1-render.png
     image_caption: "Photo credit: [R Markdown](https://rmarkdown.rstudio.com/)"
     alt: "placeholder image 2"
+    title: "R Markdown Quick Tutorial (Part II)"
+    excerpt: "AIn the previous post, I have demonstrated five simple steps to construct your own R Markdown document. In this post, I am going to share some useful tips for adding mathematical expressions, inline graphs or tables to represent your results with clarity."
+    url: "https://peterntuph.github.io/home/Rmarkdown-partII"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row2:  
+  - image_path: https://d33wubrfki0l68.cloudfront.net/87603549ad0d95b0071da0f9270b2f89ead3b39b/48700/lesson-images/websites-1-render.png
+    image_caption: "Photo credit: [R Markdown](https://rmarkdown.rstudio.com/)"
+    alt: "placeholder image 2"
     title: "R Markdown Quick Tutorial (Part I)"
     excerpt: "As a statistician or so-called data scientist, it is not only important to master the methods of data analysis, but also know how to pass the analysis results clearly to others and ensure our research reproducibility. .... "
     url: "https://peterntuph.github.io/home/Rmarkdown-partI"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row2:
+feature_row3:
   - image_path: https://imgcdn.cna.com.tw/Eng/WebEngPhotos/1024/2020/20200923/3879x2182_083163292936.jpg
     image_caption: "Photo credit: **Central News Agency**"
     title: "Recent debates on general testing"
@@ -19,7 +28,7 @@ feature_row2:
     url: "https://peterntuph.github.io/home/Recent-debates-on-general-testing/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row3:  
+feature_row4:  
   - image_path: https://image.taiwantoday.tw/images/content/img20200618144920331.jpg
     image_caption: "Photo credit: **Taiwan Today**"
     alt: "placeholder image 2"
@@ -28,7 +37,7 @@ feature_row3:
     url: "https://peterntuph.github.io/home/Whether-screen-all-citizens-or-not/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row4:
+feature_row5:
   - image_path: https://miro.medium.com/max/788/0*lzRmzAy5OICef7rK.png
     image_caption: "Photo credit: [Taylorh Xu](https://medium.com/@taylorhxu/markdown-for-dummies-a24e982b8e85)"
     title: "Basic Techniques in Markdown"
@@ -45,3 +54,5 @@ feature_row4:
 {% include feature_row id="feature_row3" type="left" %}
 
 {% include feature_row id="feature_row4" type="left" %}
+
+{% include feature_row id="feature_row5" type="left" %}

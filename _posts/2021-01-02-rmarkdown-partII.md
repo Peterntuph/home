@@ -37,14 +37,14 @@ Moreover, there are two writing modes for mathematical expressions in R markdown
 * Let's see an example of the **inline** mode:
 > The formula for the mean is $ \overline{X} = \frac{\sum{X}}{n} $ where x represents each of the values in the data set.
 
-Result:
+Result: 
 ![inline]( https://raw.githubusercontent.com/Peterntuph/home/master/_pics/rmarkdown2_1.png)
 
 * The example of **displayed** mode:
 
 > The formula for the mean is $$ \overline{X} = \frac{\sum{X}}{n} $$ where x represents each of the values in the data set.
 
-Result:
+Result: <br>
 ![displayed]( https://raw.githubusercontent.com/Peterntuph/home/master/_pics/rmarkdown2_2.png)
 
 ## 3. Graphs
@@ -55,7 +55,7 @@ For example:
 > `![ Pythagora’s theorem]( https://cdn.zmescience.com/wp-content/uploads/2017/05/Pythagorean-Theorem.jpeg)`
 
 Result:
-![ Pythagora’s theorem]( https://cdn.zmescience.com/wp-content/uploads/2017/05/Pythagorean-Theorem.jpeg)
+![ Pythagora’s theorem]( https://cdn.zmescience.com/wp-content/uploads/2017/05/Pythagorean-Theorem.jpeg){width=50%}
 
 ## 4. Table
 

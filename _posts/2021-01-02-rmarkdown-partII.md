@@ -23,7 +23,7 @@ Typing mathematical expressions in R markdown is the same in [LATEX]( https://ww
 
 | Input | Output | Input | Output |
 |:------:|:-----:|:-------:|:-----:|
-| \langle | $\langle$ | \rangle | $ \rangle $ |
+| \langle | ![formula](https://render.githubusercontent.com/render/math?math=\langle) | \rangle | ![formula](https://render.githubusercontent.com/render/math?math=\angle) |
 | \lbrace | $\lbrace$ | \rbrace | $ \rbrace $ |
 | \sum | $\sum$ | \lim | $ \lim $ |
 | \alpha | $ \alpha $ | \beta | $ \beta $ |

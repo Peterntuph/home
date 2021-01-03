@@ -23,9 +23,9 @@ Typing mathematical expressions in R markdown is the same in [LATEX]( https://ww
 
 | Input | Output | Input | Output |
 |:------:|:-----:|:-------:|:-----:|
-| \langle | $ \langle $ | \rangle | $ \rangle $ |
-| \lbrace | $ \lbrace $ | \rbrace | $ \rbrace $ |
-| \sum | $ \sum $ | \lim | $ \lim $ |
+| \langle | $\langle$ | \rangle | $ \rangle $ |
+| \lbrace | $\lbrace$ | \rbrace | $ \rbrace $ |
+| \sum | $\sum$ | \lim | $ \lim $ |
 | \alpha | $ \alpha $ | \beta | $ \beta $ |
 | \gamma | $ \gamma $ | \delta | $ \delta $ |
 | \lambda | $ \lambda $ | \mu | $ \mu $ |
@@ -67,10 +67,10 @@ We use `|`, `-`, and `enter` to create table with Markdown.
 
 For example: 
 
-`| header 1 | header 2 |`
-`|---|---|`
-`|row 1 col 1 | row 1 col 2|`
-`|row 2 col 1 | row 2 col 2|`
+`| header 1 | header 2 |` <br>
+`|---|---|` <br>
+`|row 1 col 1 | row 1 col 2|` <br>
+`|row 2 col 1 | row 2 col 2|` <br>
 
 Result:
 

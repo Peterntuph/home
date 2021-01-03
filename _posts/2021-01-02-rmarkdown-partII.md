@@ -9,7 +9,7 @@ In the [previous post]( https://peterntuph.github.io/home/Rmarkdown-partI ), I h
 
 ## 1. Inline Code
 
-To add explanations to our R Markdown, we sometimes need to refer to the objects we created in the R Studio environment. Therefore, just simply insert its name with ` ` ` `. The results will appear as text without code.
+To add explanations to our R Markdown, we sometimes need to refer to the objects we created in the R Studio environment. Therefore, just simply insert its name with ` `` `. The results will appear as text without code.
 
 For example,
 > According to the Table.1, the overall five-year survival rate for colon cancer patients is `  colon_five_year ` <br>

@@ -7,7 +7,7 @@ feature_row:
     image_caption: "Photo credit: [R Markdown](https://rmarkdown.rstudio.com/)"
     alt: "placeholder image 2"
     title: "R Markdown Quick Tutorial (Part II)"
-    excerpt: "AIn the previous post, I have demonstrated five simple steps to construct your own R Markdown document. In this post, I am going to share some useful tips for adding mathematical expressions, inline graphs or tables to represent your results with clarity."
+    excerpt: "In the previous post, I have demonstrated five simple steps to construct your own R Markdown document. In this post, I am going to share some useful tips for adding mathematical expressions, inline graphs or tables to represent your results with clarity."
     url: "https://peterntuph.github.io/home/Rmarkdown-partII"
     btn_label: "Read More"
     btn_class: "btn--primary"

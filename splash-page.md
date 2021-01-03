@@ -33,7 +33,7 @@ feature_row4:
     image_caption: "Photo credit: [Taylorh Xu](https://medium.com/@taylorhxu/markdown-for-dummies-a24e982b8e85)"
     title: "Basic Techniques in Markdown"
     excerpt: "This is my first post that shows some basic techniques in Markdown"
-    url: "https://peterntuph.github.io/home/my-first-post/"
+    url: "https://peterntuph.github.io/home/my-first-post"
     btn_label: "Read More"
     btn_class: "btn--primary"    
 ---

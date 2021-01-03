@@ -54,8 +54,8 @@ We have mentioned a lot of useful syntax in Markdown in my [first post]( https:/
 For example: 
 > `![ Pythagora’s theorem]( https://cdn.zmescience.com/wp-content/uploads/2017/05/Pythagorean-Theorem.jpeg)`
 
-Result:
-![ Pythagora’s theorem]( https://cdn.zmescience.com/wp-content/uploads/2017/05/Pythagorean-Theorem.jpeg)
+Result: <br>
+<img src="https://cdn.zmescience.com/wp-content/uploads/2017/05/Pythagorean-Theorem.jpeg" width="640" height="360">
 
 ## 4. Table
 

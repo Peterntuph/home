@@ -23,12 +23,12 @@ Typing mathematical expressions in R markdown is the same in [LATEX]( https://ww
 
 | Input | Output | Input | Output |
 |:------:|:-----:|:-------:|:-----:|
-| \langle | ![formula](https://render.githubusercontent.com/render/math?math=\langle) | \rangle | ![formula](https://render.githubusercontent.com/render/math?math=\angle) |
-| \lbrace | $\lbrace$ | \rbrace | $ \rbrace $ |
-| \sum | $\sum$ | \lim | $ \lim $ |
-| \alpha | $ \alpha $ | \beta | $ \beta $ |
-| \gamma | $ \gamma $ | \delta | $ \delta $ |
-| \lambda | $ \lambda $ | \mu | $ \mu $ |
+| \langle | ![formula](https://render.githubusercontent.com/render/math?math=\langle) | \rangle | ![formula](https://render.githubusercontent.com/render/math?math=\rangle) |
+| \lbrace | ![formula](https://render.githubusercontent.com/render/math?math=\lbrace) | \rbrace | ![formula](https://render.githubusercontent.com/render/math?math=\rbrace) |
+| \sum | ![formula](https://render.githubusercontent.com/render/math?math=\sum) | \lim | ![formula](https://render.githubusercontent.com/render/math?math=\lim) |
+| \alpha | ![formula](https://render.githubusercontent.com/render/math?math=\alpha) | \beta | ![formula](https://render.githubusercontent.com/render/math?math=\beta) |
+| \gamma | ![formula](https://render.githubusercontent.com/render/math?math=\gamma) | \delta | ![formula](https://render.githubusercontent.com/render/math?math=\delta) |
+| \lambda | ![formula](https://render.githubusercontent.com/render/math?math=\lambda) | \mu | ![formula](https://render.githubusercontent.com/render/math?math=\mu) |
 
 For complete lists of mathematical expressions in LATEX format, Please visit the [The Comprehensive LaTeX Symbol List]( https://mirror-hk.koddos.net/CTAN/info/symbols/comprehensive/symbols-a4.pdf).
 

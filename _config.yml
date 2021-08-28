@@ -108,7 +108,7 @@ google_analytics: "UA-160375919-1"
 # Site Author
 author:
   name             : "Kuan-Hung (Peter) Yeh"
-  avatar           : "bio.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "bio.jpeg"# path of avatar image, e.g. "/assets/images/-photo.jpg"
   bio              : "A graduate from Dept. of Public Health at National Taiwan University"
   location         : "Taipei, Taiwan"
   email            :

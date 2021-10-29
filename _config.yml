@@ -20,7 +20,7 @@ title                    : "Kuan-Hung Yeh's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Kuan-Hung (Peter) Yeh"
-description              : "A graduate from Dept. of Public Health at National Taiwan University"
+description              : "A master student at UCLA Biostatistics"
 url                      : "https://peterntuph.github.io/home" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/home"# the subpath of your site, e.g. "/blog"
 repository               : "peterntuph/home"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,8 +109,8 @@ google_analytics: "UA-160375919-1"
 author:
   name             : "Kuan-Hung (Peter) Yeh"
   avatar           : "bio.jpeg"# path of avatar image, e.g. "/assets/images/-photo.jpg"
-  bio              : "A graduate from Dept. of Public Health at National Taiwan University"
-  location         : "Taipei, Taiwan"
+  bio              : "A master student at UCLA Biostatistics"
+  location         : "Los Angeles, CA"
   email            :
   links:
     - label: "Email"

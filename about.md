@@ -4,7 +4,7 @@ classes: wide
 permalink: /about/
 author_profile: true
 ---
-Hi! I'm a 1st Bioinformatics Ph.D. Student at the University of California, San Diego. 
+Hi! I'm a 3rd Bioinformatics Ph.D. Student at the University of California, San Diego. 
 
 I'm a Quantitative Researcher in biomedical science passionate about leveraging the power of statistics to improve population health. With 4+ years of hands-on research experience collaborating with experts in Biotech, National labs, Universities, and Hospitals, my career goal is to turn data into actionable insights to transform Cancer Care & revolutionize Public Health.
 

@@ -20,7 +20,7 @@ title                    : "Kuan-Hung (Peter) Yeh's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Kuan-Hung (Peter) Yeh"
-description              : "A master student at UCLA Biostatistics"
+description              : "A Ph.D Candidate in UC San Diego"
 url                      : "https://peterntuph.github.io/home" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/home"# the subpath of your site, e.g. "/blog"
 repository               : "peterntuph/home"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
